@@ -37,6 +37,11 @@
             es: "Guardar",
             zh: "保存"
         },
+       	checkHead: {
+            en: "Clean up unnecessary header data",
+            es: "Borrar datos cabecera innecesarios",
+            zh: "清理多余头部数据"	
+	    },
         automaticDownload: {
             en: "Automatic download",
             es: "Descarga automática",
