@@ -286,6 +286,11 @@
             en: "Are you sure you want to close?",
             es: "¿Seguro que quieres cerrar?",
             zh: "确定要关闭吗?"
+		},
+		completeClearCache: {
+            en: "Clear data after downloading",
+            es: "Borrar datos después de descargar",
+            zh: "下载完成后清空数据"
         }
     };
 })();
