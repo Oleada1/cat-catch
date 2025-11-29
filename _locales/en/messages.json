@@ -1010,6 +1010,9 @@
   "deleteDuplicateFilenames": {
     "message": "Delete duplicate filenames"
   },
+  "alertimport": {
+  	"message": "Import completed"
+  },
   "isBlockedSite": {
     "message": "This site requires blocking the operation of this extension"
   }
